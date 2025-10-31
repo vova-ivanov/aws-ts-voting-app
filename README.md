@@ -1,1 +1,1 @@
-# aws-ts-static-website
+# aws-ts-voting-app
